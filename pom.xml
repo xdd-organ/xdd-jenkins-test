@@ -156,17 +156,17 @@
             <version>1.6.1</version>
         </dependency>
         <!-- json-lib -->
-        <dependency>
+        <!--<dependency>
             <groupId>net.sf.json-lib</groupId>
             <artifactId>json-lib</artifactId>
             <version>2.4</version>
-        </dependency>
+        </dependency>-->
         <!-- https://mvnrepository.com/artifact/xom/xom -->
-        <dependency>
+        <!--<dependency>
             <groupId>xom</groupId>
             <artifactId>xom</artifactId>
             <version>1.2.5</version>
-        </dependency>
+        </dependency>-->
     </dependencies>
 
 
